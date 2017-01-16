@@ -1,0 +1,17 @@
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\lib\win32\x64\git2-a5cf255.dll
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\lib\win32\x64\git2-a5cf255.pdb
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\lib\win32\x86\git2-a5cf255.dll
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\lib\win32\x86\git2-a5cf255.pdb
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\lib\osx\libgit2-a5cf255.dylib
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\lib\linux\x86_64\libgit2-a5cf255.so
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\LibGit2Sharp.dll.config
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\webhook.test.dll
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\webhook.test.pdb
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\LibGit2Sharp.dll
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\nunit.framework.dll
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\LibGit2Sharp.pdb
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\LibGit2Sharp.xml
+C:\Red Planet\webhook_test2\webhook.test\bin\Debug\nunit.framework.xml
+C:\Red Planet\webhook_test2\webhook.test\obj\Debug\webhook.test.csprojResolveAssemblyReference.cache
+C:\Red Planet\webhook_test2\webhook.test\obj\Debug\webhook.test.dll
+C:\Red Planet\webhook_test2\webhook.test\obj\Debug\webhook.test.pdb
