@@ -1,0 +1,10 @@
+# pack-refs with: peeled fully-peeled 
+5113cbfa082337b31cb7089ed7ab379b65b71a9f refs/heads/TEST-branch
+6811f106bca23fe5ae949eb800fc449dec09dd71 refs/heads/feature/ODYINT-286
+2fb0941f1dc378b903879a102c76659b56854440 refs/heads/feature/TEST-Branch4
+c03bd8b0b8bc0afd7b7ee0386f6872641a606d47 refs/heads/feature/TEST-branch2
+06bf49ee6d9313c5ff1b021cb21e9ddef8c1e8a9 refs/heads/feature/TEST-branch3
+640a92c7f510ddaed0ac34df0da912ecb09210f0 refs/heads/feature/Test-branch2
+cdd1e7429126551d79ddd6c7dc7d034c20f522dd refs/heads/feature/Test_JR
+2144ac5807f740d15fa1277e51af5a2707465cca refs/heads/feature/testjr2
+67e2dd08de5065a044794330e798f9edae92cc67 refs/heads/master
